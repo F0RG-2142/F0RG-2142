@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @F0RG-2142
-- 👀 I’m interested in Data Science and Analysis
+- 👀 I’m interested in Data Analysis and Backend Development
 - 🌱 I’m currently learning Go
 
 <!---

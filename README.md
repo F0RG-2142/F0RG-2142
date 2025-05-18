@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @F0RG-2142
 - 👀 I’m interested in Data Analysis and Backend Development
-- 🌱 I’m currently learning Go
 
 <!---
 F0RG-2142/F0RG-2142 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

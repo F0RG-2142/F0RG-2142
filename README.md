@@ -1,4 +1,4 @@
--  Hi, I’m @F0RG-2142
+-  Hi, I’m Louis
 -  I’m interested in Data Analysis and Backend Development
 -  I reallly like Go for backend dev and im pretty good at Python (but who isn't?) for data related stuff
 -  I realized in my previous project that I lack experience in JS so that is what im learning right now

@@ -1,4 +1,4 @@
-Hi, I’m Louis
+# Hi, I’m Louis
 -  I’m interested in Data Analysis and Backend Development
 -  I'm learning JS at the moment
 <!---

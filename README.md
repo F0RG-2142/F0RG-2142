@@ -5,6 +5,7 @@
 
 # Currently Learning
 - JavaScript (aka java)
+- Does Svelte count?
 - Liking Go more
 - Being corporately verbose
 - Dynamic interpolation for comprehensive media distribution and analysis as it applies to heuristic community building

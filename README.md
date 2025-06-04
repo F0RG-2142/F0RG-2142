@@ -1,11 +1,11 @@
-# Hi, I’m Louis
+# Me
 -  🖥️ I want to build things (can do python if I have to 👉 👈)
 -  🦫 I really really really really really like Go
 -  📧 vanaardtlj03@gmail.com
 
 # Currently Learning
 - JavaScript (aka java)
-- Does Svelte count?
+- Does templ count?
 - Liking Go more
 - Being corporately verbose
 - Dynamic interpolation for comprehensive media distribution and analysis as it applies to heuristic community building

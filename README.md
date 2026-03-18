@@ -6,6 +6,7 @@
 -  📧 vanaardtlj03@gmail.com
 
 # Currently Learning
+- Some Grafana
 - Liking Go more
 - Kotlin when I have some spare time
 - Lowkey eyeing Gleam after Kotlin

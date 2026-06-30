@@ -9,7 +9,7 @@
 - Liking Go more
 - __C# (Busy)__ -> Gleam -> Zig
 - Being corporately verbose
-- Dynamic interpolation for comprehensive media distribution and analysis as it applies to heuristic community building
+- Leveraging data-driven analytics to drive stakeholder alignment and architect bespoke internal accelerators for hyper-scalable operational synergy.
 
 # My Job
 - I'm an R&D Data Analyst (mostly R&D).

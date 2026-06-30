@@ -12,9 +12,9 @@
 - Dynamic interpolation for comprehensive media distribution and analysis as it applies to heuristic community building
 
 # My Job
-- I'm an R&D Data Analyst.
-- Mostly R&D, Data Analyst when important people ask nicely
-- I use Grafana, Docker, Go, Python, and SQL.
+- I'm an R&D Data Analyst (mostly R&D).
+- Really enjoy building internal tooling.
+- I use Go, Python, SQL, Grafana, and Docker.
 <!---
 F0RG-2142/F0RG-2142 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

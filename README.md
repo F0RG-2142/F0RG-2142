@@ -1,5 +1,5 @@
 # Me
--  🖥️ I want to build things (can do python if I have to 👉 👈)
+-  🖥️ I want to build things (I have python experience if I have to use it👉 👈)
 -  🦫 I really really really really really like Go
 -  💾 Quite decent with SQL
 -  ☹️ Haven't had much time to work on my personal projects in recent months, I promise my Github isnt empty because I'm lazy

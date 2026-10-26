@@ -13,7 +13,7 @@
 
 # My Job
 - I'm an R&D Data Analyst (mostly R&D).
-- Really enjoy building internal tooling.
+- Really enjoy building things that people actually use.
 - I use Go, Python, SQL, Grafana, and Docker.
 <!---
 F0RG-2142/F0RG-2142 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
